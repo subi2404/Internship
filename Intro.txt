@@ -1,0 +1,25 @@
+Data Science
+• Data Science is everything w.r.t processing data and finding insights. This is purely 
+an umbrella term, it covers everything about data and finding insights from it.
+• This field includes descriptive statistics, machine learning algorithms, data mining
+or data analytics and deep-learning.
+• As part of this course we will cover descriptive statistics, machine learning 
+algorithms and introduce you to artificial neural networks.
+• The decisions are taken based on statistical and mathematical concepts, which 
+forms the core part of machine learning algorithm
+
+Data Platforms
+• MEDIA - MUSIC, ENTERTAINMENT
+• COLLABORATION - GITHUB, SLACK
+• SEARCH - GOOGLE, YAHOO, BING
+• SOCIAL - FACEBOOK, HELO, LINKEDIN, TWITTER
+• KNOWLEDGE - BYJUS, KHAN ACADEMY, etc
+• ECOMMERCE - AMAZON, FLIPKART, MYNTRA
+• MARKETPLACE - PLAYSTORE ANDROID, APPLE
+• PAAS IAAS DBAAS - AZURE, AWS, IBM, GOOGLE 
+CLOUD
+• SERVICE EXCHANGE - UBER, ZOMATO, SWIGGY
+
+Watson by IBM, 2016
+AlphaGo by Deepmind (Now Alphabet Inc), 2018
+Rekognition by Amazon, 2019
